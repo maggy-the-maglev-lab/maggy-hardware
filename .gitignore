@@ -1,5 +1,6 @@
 .DS_Store
-jlcpcb
+jlcpcb/
+production-files/
 
 *backups/
 *.lck
