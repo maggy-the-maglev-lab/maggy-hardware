@@ -8,7 +8,7 @@ This repository contains the KiCad design files for the Maggy PCB. For an introd
 
 ## Ordering Boards
 
-You do not need to install KiCad to order boards. Each board revision has a [release](https://github.com/Maggy-the-maglev-lab/maggy-design/releases) with the Gerbers, drill files, BOM, CPL and a PDF of the schematic, ready to upload to JLCPCB. Board options and parts bought separately (such as the Teensy 4.1) are listed in [ordering.md](./documentation/ordering.md).
+You do not need to install KiCad to order boards. Each board revision has a [release](https://github.com/Maggy-the-maglev-lab/maggy-hardware/releases) with the Gerbers, drill files, BOM, CPL and a PDF of the schematic, ready to upload to JLCPCB. Board options and parts bought separately (such as the Teensy 4.1) are listed in [ordering.md](./documentation/ordering.md).
 
 Releases are tagged `vMAJOR.MINOR.PATCH`, where `MAJOR.MINOR` matches the revision printed on the silkscreen. A suffix such as `-rc.1` marks a release candidate. In this state, expect minor changes to the revision before its final release. 
 

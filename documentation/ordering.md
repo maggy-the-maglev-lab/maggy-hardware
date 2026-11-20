@@ -1,6 +1,6 @@
 # Ordering
 
-Upload the Gerbers, BOM and CPL from the [release](https://github.com/Maggy-the-maglev-lab/maggy-design/releases) to JLCPCB. Size and layer count should be detected from the Gerbers. Ensure that the following options are selected:
+Upload the Gerbers, BOM and CPL from the [release](https://github.com/Maggy-the-maglev-lab/maggy-hardware/releases) to JLCPCB. Size and layer count should be detected from the Gerbers. Ensure that the following options are selected:
 
 | Option             | Value                        |
 | ------------------ | ---------------------------- |
