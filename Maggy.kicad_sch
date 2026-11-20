@@ -12906,7 +12906,7 @@
 			)
 		)
 	)
-	(global_label "CUR_SOL3"
+	(global_label "CUR_+Y"
 		(shape input)
 		(at 274.32 48.26 0)
 		(fields_autoplaced yes)
@@ -13002,7 +13002,7 @@
 			)
 		)
 	)
-	(global_label "CUR_SOL1"
+	(global_label "CUR_-Y"
 		(shape output)
 		(at 196.85 228.6 0)
 		(fields_autoplaced yes)
@@ -13962,7 +13962,7 @@
 			)
 		)
 	)
-	(global_label "CUR_SOL3"
+	(global_label "CUR_+Y"
 		(shape output)
 		(at 260.35 261.62 0)
 		(fields_autoplaced yes)
@@ -14346,7 +14346,7 @@
 			)
 		)
 	)
-	(global_label "CUR_SOL1"
+	(global_label "CUR_-Y"
 		(shape input)
 		(at 274.32 40.64 0)
 		(fields_autoplaced yes)
@@ -14418,7 +14418,7 @@
 			)
 		)
 	)
-	(global_label "CUR_SOL4"
+	(global_label "CUR_-X"
 		(shape output)
 		(at 196.85 261.62 0)
 		(fields_autoplaced yes)
@@ -14562,7 +14562,7 @@
 			)
 		)
 	)
-	(global_label "CUR_SOL2"
+	(global_label "CUR_+X"
 		(shape output)
 		(at 260.35 228.6 0)
 		(fields_autoplaced yes)
@@ -14682,7 +14682,7 @@
 			)
 		)
 	)
-	(global_label "CUR_SOL2"
+	(global_label "CUR_+X"
 		(shape input)
 		(at 274.32 43.18 0)
 		(fields_autoplaced yes)
@@ -14826,7 +14826,7 @@
 			)
 		)
 	)
-	(global_label "CUR_SOL4"
+	(global_label "CUR_-X"
 		(shape input)
 		(at 274.32 45.72 0)
 		(fields_autoplaced yes)

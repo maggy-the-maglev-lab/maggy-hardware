@@ -76,32 +76,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "silk_edge_clearance|230000000|135327297|0505e1cf-8b05-4772-af01-27c345d6fc75|6ff326c3-6a93-45eb-a133-6554941e85fa",
-          ""
-        ],
-        [
-          "silk_edge_clearance|230000000|144727297|0505e1cf-8b05-4772-af01-27c345d6fc75|280386d6-ea82-4e38-920b-33937463025b",
-          ""
-        ],
-        [
-          "silk_edge_clearance|230025000|144727297|0505e1cf-8b05-4772-af01-27c345d6fc75|e4ec3771-6144-4eea-b39f-db628a1a2625",
-          ""
-        ],
-        [
-          "silk_overlap|183964456|153825714|55ca70a8-8b94-4895-a909-dbf5907d6052|58d78981-374f-49e4-80f1-7855bedbdea1",
-          ""
-        ],
-        [
-          "text_height|177150000|157200000|b586e3fb-4d5b-4dcb-afea-10568ec5a0c9|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "text_thickness|177150000|157200000|b586e3fb-4d5b-4dcb-afea-10568ec5a0c9|00000000-0000-0000-0000-000000000000",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -687,7 +662,7 @@
           "show": true
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
           "show": true
@@ -696,19 +671,19 @@
           "group_by": true,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": false
+          "show": true
         },
         {
           "group_by": true,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
-          "show": false
+          "show": true
         },
         {
           "group_by": true,
           "label": "Exclude from Simulation",
           "name": "${EXCLUDE_FROM_SIM}",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -726,7 +701,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -768,7 +743,7 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
